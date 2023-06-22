@@ -8,10 +8,12 @@ Este repositório visa armazenar meu caminho aprendendo Crystal Language + Kemal
 "**IMPRESCINDÍVEL (antes de qualquer deploy)**".
 Responsabilidade sempre e bons estudos.
 
+## Crystal Lang
+
 Antes de abrir a documentação para ler, eu prefiro me familiarizar de outras formas com a linguagem já que a documentação de algumas linguagens podem nos assustar.
 Visando isso eu busco formas diferentes de interagir com a linguagem.
 
-## Vídeos
+### Vídeos
 As bases das linguagens não tendem a mudar muito.
 - Variáveis
 - Funções
@@ -33,20 +35,20 @@ Vídeo para Kemal
 Vídeo rápido e que já nos coloca pronto para fazermos requisição a uma api sem configurar muita coisa.
 E é muito fácil de visualizar as estruturas que são usadas para se criar uma rota.
 
-## Mão na massa
+### Mão na massa
 Agora vamos começar de verdade a programar na linguagem, você pode estar se perguntando, mas sem ler a documentação?
 Eeee... Sim e não... Vamos abrir a documentação mas primeiro:
 
-### Compliadores online:
+#### Compliadores online:
 https://play.crystal-lang.org/#/cr
 
 Simm! Compiladores online, a forma mais fácil de testar, errar e acertar sem se preocupar ainda em instalar o programa.
 Se acostume com estruturas de decisão, repetição, funções, objetos, classes. Realize exercícios simples. Vai ver que provavelmente você vai errar algo.
 
-### Documentação
+#### Documentação
 Agora sim abra a documentação, e use enquanto coda para tirar dúvidas ou apenas leia ela:
 
-#### Base
+##### Base
 Na Crystal Lang sugiro que comece pelos tópicos:
 - [Hello World 🌎](https://crystal-lang.org/reference/1.8/tutorials/basics/10_hello_world.html)
 - [Variáveis](https://crystal-lang.org/reference/1.8/tutorials/basics/20_variables.html)
@@ -62,7 +64,7 @@ Depois de se habituar a isso, sugiro dar uma olhada no guia, você encontrará i
 Você pode ver mais se você quiser:
 [Guia completo](https://crystal-lang.org/reference/1.8/guides/index.html)
 
-#### Importantes
+##### Importantes
 Existe uma seção de especificações da linguagem que diz como devemos fazer uma série de coisas, no começo eu focaria em:
 - [Como fazer comentários](https://crystal-lang.org/reference/1.8/syntax_and_semantics/comments.html)
 - [Documentação automática](https://crystal-lang.org/reference/1.8/syntax_and_semantics/documenting_code.html)
@@ -71,7 +73,7 @@ Existe uma seção de especificações da linguagem que diz como devemos fazer u
 Muito importante, muitos devs deixam isso passar, mas é importante saber o que a linguagem entende como true e false. Exemplo: Algumas linguagens consideram int 0 como false, outras não.
 - [O que é verdadeiro e o que é falso](https://crystal-lang.org/reference/1.8/syntax_and_semantics/truthy_and_falsey_values.html)
 
-#### **IMPRESCINDÍVEL (antes de qualquer deploy)**
+##### **IMPRESCINDÍVEL (antes de qualquer deploy)**
 Leia sobre código inseguro.
 Principalmente se você trabalha como desenvolvedor e principalmente com deploys.
 Primeira coisa, você é um desenvolvedor, sumariamente a sua sina deve ser lutar contra defeitos e falhas.
