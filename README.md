@@ -86,4 +86,4 @@ A instalação é muito bem explicada, existe até um script que faz ela automat
 
 Apenas escolha o seu sistema operacional, talvez a distro e siga o manual.
 
-- (Instalaçãp)[https://crystal-lang.org/install/]
+- (Instalação)[https://crystal-lang.org/install/]
