@@ -45,10 +45,10 @@ https://play.crystal-lang.org/#/cr
 Simm! Compiladores online, a forma mais fácil de testar, errar e acertar sem se preocupar ainda em instalar o programa.
 Se acostume com estruturas de decisão, repetição, funções, objetos, classes. Realize exercícios simples. Vai ver que provavelmente você vai errar algo.
 
-#### Documentação
+### Documentação
 Agora sim abra a documentação, e use enquanto coda para tirar dúvidas ou apenas leia ela:
 
-##### Base
+#### Base
 Na Crystal Lang sugiro que comece pelos tópicos:
 - [Hello World 🌎](https://crystal-lang.org/reference/1.8/tutorials/basics/10_hello_world.html)
 - [Variáveis](https://crystal-lang.org/reference/1.8/tutorials/basics/20_variables.html)
@@ -64,7 +64,7 @@ Depois de se habituar a isso, sugiro dar uma olhada no guia, você encontrará i
 Você pode ver mais se você quiser:
 [Guia completo](https://crystal-lang.org/reference/1.8/guides/index.html)
 
-##### Importantes
+#### Importantes
 Existe uma seção de especificações da linguagem que diz como devemos fazer uma série de coisas, no começo eu focaria em:
 - [Como fazer comentários](https://crystal-lang.org/reference/1.8/syntax_and_semantics/comments.html)
 - [Documentação automática](https://crystal-lang.org/reference/1.8/syntax_and_semantics/documenting_code.html)
@@ -73,9 +73,17 @@ Existe uma seção de especificações da linguagem que diz como devemos fazer u
 Muito importante, muitos devs deixam isso passar, mas é importante saber o que a linguagem entende como true e false. Exemplo: Algumas linguagens consideram int 0 como false, outras não.
 - [O que é verdadeiro e o que é falso](https://crystal-lang.org/reference/1.8/syntax_and_semantics/truthy_and_falsey_values.html)
 
-##### **IMPRESCINDÍVEL (antes de qualquer deploy)**
+#### **IMPRESCINDÍVEL (antes de qualquer deploy)**
 Leia sobre código inseguro.
 Principalmente se você trabalha como desenvolvedor e principalmente com deploys.
 Primeira coisa, você é um desenvolvedor, sumariamente a sua sina deve ser lutar contra defeitos e falhas.
 Segundo, você está lidando com negócios e pessoas, vidas. Lembre-se disso. Responsabilidade sempre.
 - [Código não seguro](https://crystal-lang.org/reference/1.8/syntax_and_semantics/unsafe.html)
+
+### Instalação local
+
+A instalação é muito bem explicada, existe até um script que faz ela automaticamente para você e os autores distinguem bem os sistemas operacionais e as distribuições.
+
+Apenas escolha o seu sistema operacional, talvez a distro e siga o manual.
+
+- (Instalaçãp)[https://crystal-lang.org/install/]
