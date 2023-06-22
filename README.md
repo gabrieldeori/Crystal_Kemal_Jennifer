@@ -55,25 +55,24 @@ Na Crystal Lang sugiro que comece pelos tópicos:
 - [Métodos](https://crystal-lang.org/reference/1.8/tutorials/basics/60_methods.html)
 
 Depois de se habituar a isso, sugiro dar uma olhada no guia, você encontrará informações importantes sobre a linguagem, mas eu sugiro focar em:
-[Padrões da linguagem (Estilo, formatação, etc)](https://crystal-lang.org/reference/1.8/conventions/coding_style.html)
-[Testes](https://crystal-lang.org/reference/1.8/guides/testing.html)
+- [Padrões da linguagem (Estilo, formatação, etc)](https://crystal-lang.org/reference/1.8/conventions/coding_style.html)
+- [Testes](https://crystal-lang.org/reference/1.8/guides/testing.html)
 
 Você pode ver mais se você quiser:
 [Guia completo](https://crystal-lang.org/reference/1.8/guides/index.html)
 
 #### Importantes
 Existe uma seção de especificações da linguagem que diz como devemos fazer uma série de coisas, no começo eu focaria em:
-[Como fazer comentários](https://crystal-lang.org/reference/1.8/syntax_and_semantics/comments.html)
-[Documentação automática](https://crystal-lang.org/reference/1.8/syntax_and_semantics/documenting_code.html)
-[Tipos de variáveis](https://crystal-lang.org/reference/1.8/syntax_and_semantics/literals/index.html)
+- [Como fazer comentários](https://crystal-lang.org/reference/1.8/syntax_and_semantics/comments.html)
+- [Documentação automática](https://crystal-lang.org/reference/1.8/syntax_and_semantics/documenting_code.html)
+- [Tipos de variáveis](https://crystal-lang.org/reference/1.8/syntax_and_semantics/literals/index.html)
 
 Muito importante, muitos devs deixam isso passar, mas é importante saber o que a linguagem entende como true e false. Exemplo: Algumas linguagens consideram int 0 como false, outras não.
-[O que é verdadeiro e o que é falso](https://crystal-lang.org/reference/1.8/syntax_and_semantics/truthy_and_falsey_values.html)
+- [O que é verdadeiro e o que é falso](https://crystal-lang.org/reference/1.8/syntax_and_semantics/truthy_and_falsey_values.html)
 
 #### **IMPRESCINDÍVEL (antes de qualquer deploy)**
 Leia sobre código inseguro.
 Principalmente se você trabalha como desenvolvedor e principalmente com deploys.
 Primeira coisa, você é um desenvolvedor, sumariamente a sua sina deve ser lutar contra defeitos e falhas.
 Segundo, você está lidando com negócios e pessoas, vidas. Lembre-se disso. Responsabilidade sempre.
-
-[Código não seguro](https://crystal-lang.org/reference/1.8/syntax_and_semantics/unsafe.html)
+- [Código não seguro](https://crystal-lang.org/reference/1.8/syntax_and_semantics/unsafe.html)
